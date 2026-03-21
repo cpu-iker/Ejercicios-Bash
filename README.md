@@ -1,4 +1,4 @@
-# Ejercicios de Bash
+# Ejercicios de scripts en Bash
 
 Dos ejercicios prácticos para aprender Bash: un gestor de ficheros con logs y un script para detectar de palíndromos (palabras que son la misma al revés).
 
